@@ -1,6 +1,6 @@
 - 참고 자료
     - 백기선님 강의
-    - freespringlecture님dml [spring-core-tech](https://github.com/freespringlecture/spring-core-tech/blob/chap02-01-ioccontainer/Readme.md)
+    - freespringlecture님의 [spring-core-tech](https://github.com/freespringlecture/spring-core-tech/blob/chap02-01-ioccontainer/Readme.md)
 
 # 스프링 IoC 컨테이너와 Bean
 
