@@ -1,6 +1,6 @@
 - 참고 자료
     - 백기선님 강의
-    - freespringlecture님dml [spring-core-tech](https://github.com/freespringlecture/spring-core-tech/blob/chap02-01-ioccontainer/Readme.md)
+    - freespringlecture님의 [spring-core-tech](https://github.com/freespringlecture/spring-core-tech/blob/chap02-01-ioccontainer/Readme.md)
 
 # 스프링 IoC 컨테이너와 Bean
 
@@ -12,7 +12,7 @@
 - 애플리케이션 컴포넌트의 중앙 저장소
 - 빈 설정 소스로부터 빈 정의를 읽어들이고, 빈 구성 및 제공
 
-# 빈
+## 빈
 
 - 스프링 IoC 컨테이너가 관리하는 객체
 - 장점
@@ -26,7 +26,7 @@
 
 ## 스프링 IoC 컨테이너를 사용하는 이유
 
--스프링은 오랜 기간동안 아주 많은 개발자들이 커뮤니티에서 의론한 결과 끝에 만들어진 프레임워크이다.
+- 스프링은 오랜 기간동안 아주 많은 개발자들이 커뮤니티에서 의론한 결과 끝에 만들어진 프레임워크
 - 컨테이너: IoC 기능을 담고 있는 빈을 담고 있는 '통'
 - 빈(Bean): 컨테이너 안에 있는 객체. 필요에 따라 의존성 주입 등이 가능하다.
 
