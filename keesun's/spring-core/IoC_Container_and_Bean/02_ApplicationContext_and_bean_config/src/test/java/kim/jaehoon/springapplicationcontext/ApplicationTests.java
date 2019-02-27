@@ -1,4 +1,4 @@
-package kim.jaehoon;
+package kim.jaehoon.springapplicationcontext;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
